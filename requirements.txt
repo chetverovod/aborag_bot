@@ -1,0 +1,10 @@
+aiogram==3.13.1
+config==0.5.1
+keyboard==0.13.5
+mattsollamatools==0.0.21
+navec==0.10.0
+ollama==0.3.3
+slovnet==0.6.0
+torch==2.0.1
+numpy<2
+

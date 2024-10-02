@@ -1,0 +1,28 @@
+source: Suzuki Djebel 200 Motorcycle. User's Manual page 2:
+quote: Front tire pressure 1.5 kg per square centimeter.
+tags: tires
+
+source: Suzuki Djebel 200 Motorcycle. User's Manual page 3:
+quote: Rear tire pressure when riding without a passenger 1.75 kg per square
+centimeter.
+tags: tires
+
+source: Suzuki Djebel 200 Motorcycle. User's Manual page 4:
+quote: Rear tire pressure when riding with a passenger 2 kg per square
+centimeter.
+tags: tires
+
+source: Suzuki Djebel 200 Motorcycle. User's Manual page 30:
+quote: Crankcase cover bolt tightening torque 6 Nm.
+tags: assembly, tightening force, clutch repair, clutch disc replacement, generator
+repair, timing chain replacement
+
+source: Suzuki Djebel 200 motorcycle. User's Manual page 31:
+quote: Front axle nut tightening torque 48 Nm.
+tags: assembly, tightening force, front brake pad replacement, front
+hub, front wheel installation, speedometer gearbox replacement
+
+source: Suzuki Djebel 200 motorcycle. User's Manual page 31:
+quote: Rear axle nut tightening torque 65 Nm.
+tags: assembly, tightening force, rear brake pad replacement, rear
+wheel installation, rear hub

@@ -1,0 +1,70 @@
+Chapter 2. Periodic maintenance,
+
+source: Suzuki Djebel 200 motorcycle. Owner's Manual Chapter 2 Page 3:
+quote: Frequency of tightening the exhaust pipe nuts every 5000 km or 15 months.
+tags: Periodic maintenance, exhaust system.
+
+source: Suzuki Djebel 200 motorcycle. Owner's Manual Chapter 2 Page 3:
+quote: Frequency of cleaning the air filter every 5000 km or 15 months.
+tags: Periodic maintenance, exhaust system.
+
+source: Suzuki Djebel 200 motorcycle. Owner's Manual Chapter 2 Page 3:
+quote: Frequency of checking the valve clearance after the first thousand kilometers or 3 months, then
+every 5000 km or 15 months. The clearance of the valve tappets in the valve timing mechanism in a cold state is 0.1 mm.
+tags: Periodic maintenance, adjustment, valves, intake valve, exhaust valve
+
+source: Suzuki Djebel 200 motorcycle. Owner's Manual Chapter 2 Page 3:
+quote: Spark plug inspection interval: every 5,000 km or 15 months.
+Spark plug gap 0.6 mm.
+tags:Periodic maintenance, adjustment, spark plug
+
+source: Suzuki Djebel 200 motorcycle. Owner's Manual Chapter 2 Page 3:
+quote: Exhaust system spark arrestor inspection interval (installed
+only on motorcycles made for the USA) every 5,000 km or 15 months.
+tags:Periodic maintenance, spark arrestor
+
+source: Suzuki Djebel 200 motorcycle. Owner's Manual Chapter 2 Page 3:
+quote: Fuel line inspection interval: every 5,000 km or 15 months, replace
+every 4 years.
+tags:Periodic maintenance, fuel hose
+
+source: Suzuki Djebel 200 motorcycle. User's Manual Chapter 2 Page 4:
+quote: The frequency of checking the carburetor after the first thousand kilometers or 3
+months, then every 5000 km or 15 months. Idle speed should
+correspond to 1400 ... 1600 rpm. Free play of the throttle handle 3-6 mm.
+tags:Periodic maintenance, carburetor, idle speed, throttle handle
+
+source: Suzuki Djebel 200 motorcycle. User's Manual Chapter 2 Page 4:
+quote: The frequency of checking the clutch after the first thousand kilometers or 3
+months, then every 5000 km or 15 months. Free play of the clutch lever
+should be 10..15 mm.
+tags:Periodic maintenance, carburetor clutch, clutch handle
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual page 2:
+quote:Periodic maintenance, Front tire pressure 1.5 kg per square centimeter.
+tags: tires
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual page 3:
+quote:Periodic maintenance, Rear tire pressure when riding without a passenger 1.75 kg per square
+centimeter.
+tags: tires
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual page 4:
+quote:Periodic maintenance, Rear tire pressure when riding with a passenger 2 kg per square
+centimeter.
+tags: tires
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual page 30:
+quote: Tightening torque of crankcase cover bolts 6 Nm.
+tags:Periodic maintenance, assembly, tightening force, clutch repair, clutch disc replacement, alternator
+repair, timing chain replacement
+
+source: Suzuki Djebel 200 motorcycle. User's Manual page 31:
+quote: Front axle nut tightening torque 48 Nm.
+tags:Periodic maintenance, assembly, tightening force, front brake pad replacement, front
+hub, front wheel installation, speedometer gearbox replacement
+
+source: Suzuki Djebel 200 motorcycle. User's Manual page 31:
+quote: Rear axle nut tightening torque 65 Nm.
+tags:Periodic maintenance, assembly, tightening force, rear brake pad replacement, rear
+wheel installation, rear hub

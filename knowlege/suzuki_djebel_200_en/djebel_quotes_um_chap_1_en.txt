@@ -1,0 +1,121 @@
+Chapter 1. General information
+
+source: Suzuki Djebel 200 motorcycle. User's Manual Chapter 1 Page 3:
+quote: The VIN serial number is located on the steering column on the right. The engine serial number is located on the left of the crank chamber.
+tags: serial number
+
+source: Suzuki Djebel 200 motorcycle. User's Manual Chapter 1 Page 3:
+quote: The type of gasoline used. Usually AI-92 gasoline is used, but AI-95 gasoline can be used.
+tags: fuel, gasoline
+
+source: Suzuki Djebel 200 motorcycle. User's Manual Chapter 1 Page 4:
+quote: The type of engine oil used is API SE, SF or SG with a viscosity of SAE 11W40.
+tags: engine oil, lubrication, oil viscosity
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual Chapter 1 Page 4:
+quote: DOT 4 Brake Fluid.
+tags: front brake
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual Chapter 1 Page 4:
+quote: Front Fork Shock Absorber Oil, Suzuki Fork Oil #10
+tags: fork oil, front fork
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual Chapter 1 Page 4:
+quote: The motorcycle should be run in for the first 800 km with the throttle handle opened no more than halfway and up to 1600 km no more than 3/4.
+tags: break-in procedure
+
+source: Suzuki Djebel 200 Motorcycle Owner's Manual Chapter 1 Page 7:
+quote: Overall length 2150 mm
+tags: specifications
+
+source: Suzuki Djebel 200 Motorcycle Owner's Manual Chapter 1 Page 7:
+quote: Overall width 805 mm
+tags: specifications
+
+source: Suzuki Djebel 200 Motorcycle Owner's Manual Chapter 1 Page 7:
+quote: Overall height 1185 mm
+tags: specifications
+
+source: Suzuki Djebel 200 Motorcycle Owner's Manual Chapter 1 Page 7:
+quote: Wheelbase 1405 mm
+tags: specifications
+
+source: Suzuki Djebel 200 Motorcycle Owner's Manual Chapter 1 Page 7:
+quote: Ground clearance 260 mm
+tags: specifications
+
+source: Suzuki Djebel 200 Motorcycle Owner's Manual Chapter 1 Page 7:
+quote: Seat height 810 mm
+tags: specifications
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual Chapter 1 Page 7:
+quote: Dry weight 113 kg
+tags: specifications
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual Chapter 1 Page 7:
+quote: Engine type four-stroke, air-cooled with overhead
+camshaft (OHC).
+tags: engine, camshaft, strokes
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual Chapter 1 Page 7:
+quote: Number of engine cylinders 1.
+tags: engine, cylinder
+
+source: motorcycle Suzuki Djebel 200. Owner's Manual Chapter 1 Page 7:
+quote: Cylinder diameter 66.0 mm.
+tags: engine, cylinder
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Piston stroke 58.2 mm.
+tags: engine, cylinder
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Combustion chamber volume 199 cc.
+tags: engine, cylinder volume
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Compression ratio 9.4 : 1.
+tags: engine
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Carburetor MIKUNI BST31SS.
+tags: engine, carburetor
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Air filter filter element made of polyurethane foam.
+tags: engine
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Lubrication system wet sump.
+tags: engine, lubrication
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Starter electric, on some models additionally installed
+kick starter.
+tags: engine
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Clutch wet, multi-plate.
+tags: transmission, clutch
+
+source: motorcycle Suzuki Djebel 200. User's Manual chapter 1 page 7:
+quote: The gearbox contains 5 speeds with constant meshing.
+tags: transmission, gearbox
+
+source: motorcycle Suzuki Djebel 200. User's Manual chapter 1 page 7:
+quote: The order of gear shifting: first down, from second to fifth up.
+tags: transmission, gearbox
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Reduction ratio: engine transmission 3.157(60/19), final drive
+3.00(45/15) first gear(low) 3(33/11), second gear 1.933(29/16),
+third 1.437(23/16), fourth 1.095(21/23), fifth(high) 0.913(21/23).
+tags: transmission, gear ratios, reduction ratios
+
+source: motorcycle Suzuki Djebel 200. User's Manual Chapter 1 Page 7:
+quote: Final drive chain type DID520VC5 112 links.
+tags: transmission, rear wheel chain
+
+source: motorcycle Suzuki Djebel 200. Owner's manual chapter 1 page 8:
+quote: Front suspension telescopic with coil springs and
+hydraulic
